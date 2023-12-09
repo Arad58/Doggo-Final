@@ -1,0 +1,27 @@
+Name of asset: Project with Primitives
+Original name of asset: Lab 2 - New Project with Primitives
+URL: https://learn.unity.com/tutorial/lab-2-new-project-with-primitives?uv=2021.3&courseId=5cf96c41edbc2a2ca6e8810f&projectId=5cdcc312edbc2a24a41671e6#
+Statement: The script used were adapted from the source just used the video for starting the project.
+
+Name of asset: Player Control
+Orginal name of asset: Lab 3 - Player Control
+URL: https://learn.unity.com/tutorial/lab-3-player-control?uv=2021.3&courseId=5cf96c41edbc2a2ca6e8810f&projectId=5cf9639bedbc2a2b1fe1e848
+Statement: The script used were adapted from the source just made few things for the player constraints.
+
+Name of asset: Basic Gameplay
+Orginal name of asset: Lab 4 - Basic Gameplay
+URL: https://learn.unity.com/tutorial/lab-4-basic-gameplay?uv=2021.3&courseId=5cf96c41edbc2a2ca6e8810f&projectId=5cf96846edbc2a2bcde6d0fc
+Statement: The script used were adapted from the source then just changed few things for destroyig objects, object collisions and etc.
+
+Name of asset: Swapping Assets
+Original name of asset: Lab 5 - Swap out your Assets
+URL: https://learn.unity.com/tutorial/lab-5-swap-out-your-assets-1?uv=2021.3&courseId=5cf96c41edbc2a2ca6e8810f&projectId=5cf96bdeedbc2a2b475972b3#
+Statement: The videos were used to swap out the assets using the Course Library folder and I used the assets for my project.
+
+Name of asset: 3D Assets
+Original name of asset: Create with Code - Course Libary.zip
+URL: https://connect-prd-cdn.unity.com/20210506/f5f470b5-a319-426b-b459-1033840b49ca/Create%20with%20Code%20-%20Course%20Library.zip
+Statement: The 3D assets used were adapted from the source just made few tweaks for the audio.
+
+
+
